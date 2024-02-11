@@ -4,6 +4,7 @@ Adds "Live Chat" functionality on sillytavern for using youtube live stream.
 ## Description
 this is modified from idle extension from sillytavern
 if you like my code and used it, please support me on ko-fi [https://ko-fi.com/megaaziib](https://ko-fi.com/megaaziib)
+
 use my local api youtube live chat to setting up first: [https://github.com/aziib/YoutubeLiveChatLocalApi](https://github.com/aziib/YoutubeLiveChatLocalApi)
 
 ## How To Use
