@@ -10,7 +10,7 @@ use my local api youtube live chat to setting up first: [https://github.com/azii
 
 ## How To Use
 1. if you already installed extension-idle, remove it because it will cause issues.
-2. install git : [https://git-scm.com/downloads](https://git-scm.com/downloads)
+2. install git : [https://git-scm.com/downloads](https://git-scm.com/downloads) (skip if you already istalled it)
 3. open your SillyTavern folder on windows explorer and then go to public\scripts\extensions\third-party 
 4. click on directory path and then type cmd and press enter
 5. a command prompt will appear and then type or copy this command line and press enter:
