@@ -2,6 +2,7 @@
 Adds "Live Chat" functionality on sillytavern for using youtube live stream.
 
 ## Description
+this is modified from idle extension from sillytavern
 if you like my code and used it, please support me on ko-fi [https://ko-fi.com/megaaziib](https://ko-fi.com/megaaziib)
 use my local api youtube live chat to setting up first: [https://github.com/aziib/YoutubeLiveChatLocalApi](https://github.com/aziib/YoutubeLiveChatLocalApi)
 
@@ -19,5 +20,7 @@ git clone https://github.com/aziib/Extension-LiveChat
 8. restart your sillytavern
 9. create new persona, just name it youtube viewer and add description {{user}} is youtube viewers live chat
 10. select your character
-11. enable the extension by going to extension tab and click Live Chat and then tick enable checkbox
+11. enable the extension by going to extension tab and click Live Chat and then tick enabled checkbox
+12. set idle count to 9999999999999 and idle timer to 3 and tick on include idle prompt
+13. also make sure is send as user
 
