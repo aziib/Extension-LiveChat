@@ -24,6 +24,6 @@ git clone https://github.com/aziib/Extension-LiveChat
 10. create new persona, set as default, just name it youtube viewer and add description {{user}} is youtube viewers live chat (you can set any description however you want if you want more immmersive interaction between live chat and the ai)
 11. select your ai character ( you can use single character or group chat, both are working and can use auto mode on group chat)
 12. enable the extension by going to extension tab and click LiveChat (choose the first one if there is two LiveChat)
-13. tick enabled checkbox , set idle count to 9999999999999 ,idle timer to 3, untick use continuation, untick randomize time and tick on to enable include idle prompt
+13. tick enabled checkbox , set idle count to 9999999999999 ,set idle timer to 3, untick use continuation, untick randomize time and tick on to enable include idle prompt
 14. also make sure is send as user
 
