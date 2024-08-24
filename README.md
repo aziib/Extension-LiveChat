@@ -2,14 +2,14 @@
 Adds "Live Chat" functionality on sillytavern for using youtube live stream.
 
 ## Description
-this is modified from idle extension from sillytavern, but you can still use Extension-Idle seperately.
+this is modified from idle extension from sillytavern, you need to remove Extension-Idle.
 
 if you like my code and used it, please support me on ko-fi [https://ko-fi.com/megaaziib](https://ko-fi.com/megaaziib)
 
 use my local api youtube live chat to setting up first: [https://github.com/aziib/YoutubeLiveChatLocalApi](https://github.com/aziib/YoutubeLiveChatLocalApi)
 
 ## How To Use
-1.  ̶i̶f̶ ̶y̶o̶u̶ ̶a̶l̶r̶e̶a̶d̶y̶ ̶i̶n̶s̶t̶a̶l̶l̶e̶d̶ ̶e̶x̶t̶e̶n̶s̶i̶o̶n̶-̶i̶d̶l̶e̶,̶ ̶r̶e̶m̶o̶v̶e̶ ̶i̶t̶ ̶b̶e̶c̶a̶u̶s̶e̶ ̶i̶t̶ ̶w̶i̶l̶l̶ ̶c̶a̶u̶s̶e̶ ̶i̶s̶s̶u̶e̶s̶.̶
+1. if you already installed extension-idle, remove it because it will cause issues.
 2. install git : [https://git-scm.com/downloads](https://git-scm.com/downloads) (skip if you already installed it)
 3. open your SillyTavern folder on windows explorer and then go to public\scripts\extensions\third-party 
 4. click on directory path and then type cmd and press enter
