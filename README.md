@@ -7,6 +7,7 @@ this is modified from idle extension from sillytavern, you need to remove Extens
 if you like my code and used it, please support me on ko-fi [https://ko-fi.com/megaaziib](https://ko-fi.com/megaaziib)
 
 use my local api youtube live chat to setting up first: [https://github.com/aziib/YoutubeLiveChatLocalApi](https://github.com/aziib/YoutubeLiveChatLocalApi)
+Tiktok Version: [https://github.com/aziib/tiktok-livechat-api](https://github.com/aziib/tiktok-livechat-api)
 
 ## How To Use
 1. if you already installed extension-idle, remove it because it will cause issues.
